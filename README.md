@@ -7,6 +7,7 @@ https://github.com/BionicMatedorX/HW5-Scheduler
 
 ## Link to public Github page:
 
+https://bionicmatedorx.github.io/HW5-Scheduler/
 
 ## Finished Product Image of Scheduler:
 
